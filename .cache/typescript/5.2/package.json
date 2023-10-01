@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "dependencies": {
+    "types-registry": "^0.1.661"
+  },
+  "devDependencies": {
+    "@types/css-tree": "^2.3.2",
+    "@types/csso": "^5.0.1",
+    "@types/node": "^20.6.3"
+  }
+}

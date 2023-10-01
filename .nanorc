@@ -1,0 +1,22 @@
+## CTRL-S to save a file
+bind ^s writeout main
+
+## set linenumbers
+
+## Set tab size to 4 for Python
+## syntax "python" "\.py$"
+set tabsize 4
+
+set tabstospaces
+set autoindent
+set trimblanks
+set linenumbers
+set constantshow
+set keycolor #666
+set functioncolor #999
+set numbercolor #555
+## set mouse  
+  
+include /usr/share/nano/*.nanorc
+include ~/.nano/*.nanorc
+
